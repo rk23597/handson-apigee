@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="4" name="HeartBeat">
+    <Basepaths>/heartbeat</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1663064204703</CreatedAt>
+    <CreatedBy>rakesh.kumawat@neosalpha.com</CreatedBy>
+    <Description>Hello Rakesh How are you</Description>
+    <DisplayName>HeartBeat</DisplayName>
+    <LastModifiedAt>1663313449189</LastModifiedAt>
+    <LastModifiedBy>rakesh.kumawat@neosalpha.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:6513b74d70b428aee40c8eb08cb8962b6161210444941bd48a81f26993639b7e6671fb69b3a1602cddfaf4357d12eb4d0e6a7219f8fd1a91e1287fcb37773ce3</ManifestVersion>
+    <Policies>
+        <Policy>Basic-Authentication-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
