@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<APIProxy revision="4" name="HeartBeat">
+<APIProxy revision="11" name="HeartBeat">
     <Basepaths>/heartbeat</Basepaths>
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
-    <CreatedAt>1663064204703</CreatedAt>
+    <CreatedAt>1663597272733</CreatedAt>
     <CreatedBy>rakesh.kumawat@neosalpha.com</CreatedBy>
-    <Description>Hello Rakesh How are you</Description>
+    <Description>commit from a local branch. Deployed by LP80</Description>
     <DisplayName>HeartBeat</DisplayName>
-    <LastModifiedAt>1663313449189</LastModifiedAt>
+    <LastModifiedAt>1663597272733</LastModifiedAt>
     <LastModifiedBy>rakesh.kumawat@neosalpha.com</LastModifiedBy>
-    <ManifestVersion>SHA-512:6513b74d70b428aee40c8eb08cb8962b6161210444941bd48a81f26993639b7e6671fb69b3a1602cddfaf4357d12eb4d0e6a7219f8fd1a91e1287fcb37773ce3</ManifestVersion>
+    <ManifestVersion>SHA-512:17d59a27a5ed5c2164fe85252967b36f380e1077665b4ecd48ce3d5b45a5de851589c09185f15fee5dda3d496d5fc1dc38e362ef15155d2ac1047347752aaadc:ap-northeast-1</ManifestVersion>
     <Policies>
         <Policy>Basic-Authentication-1</Policy>
     </Policies>
